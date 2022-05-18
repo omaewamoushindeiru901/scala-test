@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for org.scalatest.tools.Framework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(WikipediaSearchTest, sbt.ForkMain$SubclassFingerscan@68fb2c38, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWikipediaSearchTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be able to find topic (6 seconds, 441 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should login successfully (8 seconds, 726 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be able to change language (5 seconds, 968 milliseconds)[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 3 events.[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 32 seconds, 602 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 3, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WikipediaSearchTest[0m

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\38066\Desktop\FP\scala-selenium\src\test\scala\BaseTest.scala:21:8: overloaded method to with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (page: org.scalatestplus.selenium.Page)(implicit driver: org.openqa.selenium.WebDriver): Unit <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (url: String)(implicit driver: org.openqa.selenium.WebDriver): Unit[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (URLs.Value)[0m
+[0m[[0m[31merror[0m] [0m[0m    go to URLs.baseUrl[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
